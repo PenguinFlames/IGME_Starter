@@ -1,0 +1,24 @@
+//clone
+git clone url
+
+//stage
+git add.
+
+//commit
+git commit -m "Your commit message"
+
+//fetch
+git fetch origin
+
+//push
+git push origin main
+
+//pull from teacher's repo
+git pull upstream main
+
+//change credentials for this repo
+git config user.name "name"
+git config user.email "user@here.com"
+
+//Add different upstream
+git remote add upstream url
